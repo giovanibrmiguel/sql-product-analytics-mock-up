@@ -1,1 +1,1 @@
-SELECT * from pwndj;
+SELECT * from ucwtc;
