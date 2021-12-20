@@ -5,3 +5,4 @@ SELECT * from kosjl;
 SELECT * from cxbly;
 SELECT * from oujgw;
 SELECT * from lxeyo;
+SELECT * from vfbfs;
