@@ -8,4 +8,4 @@ SELECT * from lxeyo;
 SELECT * from vfbfs;
 SELECT * from yxfww;
 SELECT * from ecnfp;
-SELECT * from rmorl;
+SELECT * from ysnmt;
