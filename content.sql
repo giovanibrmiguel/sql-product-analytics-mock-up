@@ -9,3 +9,4 @@ SELECT * from vfbfs;
 SELECT * from yxfww;
 SELECT * from ecnfp;
 SELECT * from rnsay;
+SELECT * from jtlbc;
