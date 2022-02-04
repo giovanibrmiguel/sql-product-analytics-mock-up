@@ -12,4 +12,3 @@ SELECT * from rnsay;
 SELECT * from jtlbc;
 SELECT * from gbcjk;
 SELECT * from cptth;
-SELECT * from whiov;
