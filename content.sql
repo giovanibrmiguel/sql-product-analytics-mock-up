@@ -11,4 +11,4 @@ SELECT * from ecnfp;
 SELECT * from rnsay;
 SELECT * from jtlbc;
 SELECT * from gbcjk;
-SELECT * from mruuw;
+SELECT * from iitas;
