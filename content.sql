@@ -13,4 +13,3 @@ SELECT * from jtlbc;
 SELECT * from gbcjk;
 SELECT * from iitas;
 SELECT * from wpcsr;
-SELECT * from oqypd;
