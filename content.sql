@@ -15,4 +15,4 @@ SELECT * from iitas;
 SELECT * from drmpu;
 SELECT * from idgtm;
 SELECT * from awmre;
-SELECT * from topkv;
+SELECT * from riqsh;
