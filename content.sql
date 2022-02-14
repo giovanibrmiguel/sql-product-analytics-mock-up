@@ -14,3 +14,4 @@ SELECT * from gbcjk;
 SELECT * from iitas;
 SELECT * from drmpu;
 SELECT * from idgtm;
+SELECT * from htegm;
