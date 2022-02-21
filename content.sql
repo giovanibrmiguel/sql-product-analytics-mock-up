@@ -21,3 +21,4 @@ SELECT * from pxxmo;
 SELECT * from dpiwf;
 SELECT * from gpklr;
 SELECT * from hfplt;
+SELECT * from kpspf;
