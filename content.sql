@@ -16,3 +16,4 @@ SELECT * from drmpu;
 SELECT * from idgtm;
 SELECT * from awmre;
 SELECT * from meywp;
+SELECT * from promx;
