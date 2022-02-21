@@ -19,4 +19,4 @@ SELECT * from meywp;
 SELECT * from promx;
 SELECT * from pxxmo;
 SELECT * from dpiwf;
-SELECT * from jgxpa;
+SELECT * from omdhu;
