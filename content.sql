@@ -20,3 +20,4 @@ SELECT * from promx;
 SELECT * from pxxmo;
 SELECT * from dpiwf;
 SELECT * from gpklr;
+SELECT * from hfplt;
