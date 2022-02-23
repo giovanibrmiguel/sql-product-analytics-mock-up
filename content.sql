@@ -22,3 +22,4 @@ SELECT * from dpiwf;
 SELECT * from gpklr;
 SELECT * from hfplt;
 SELECT * from mqhga;
+SELECT * from rmwag;
