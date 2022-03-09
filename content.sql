@@ -24,3 +24,4 @@ SELECT * from hfplt;
 SELECT * from mqhga;
 SELECT * from rmwag;
 SELECT * from lmnrf;
+SELECT * from yfbtq;
