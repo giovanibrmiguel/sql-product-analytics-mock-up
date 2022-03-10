@@ -26,4 +26,5 @@ SELECT * from rmwag;
 SELECT * from lmnrf;
 SELECT * from yfbtq;
 SELECT * from pgubd;
-SELECT * from ddxsc;
+SELECT * from sghex;
+SELECT * from bujtf;
