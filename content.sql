@@ -25,3 +25,4 @@ SELECT * from mqhga;
 SELECT * from rmwag;
 SELECT * from lmnrf;
 SELECT * from yfbtq;
+SELECT * from gchrc;
