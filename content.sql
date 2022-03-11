@@ -29,3 +29,4 @@ SELECT * from pgubd;
 SELECT * from sghex;
 SELECT * from hylrv;
 SELECT * from huxhl;
+SELECT * from lydqg;
