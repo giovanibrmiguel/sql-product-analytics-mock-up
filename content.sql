@@ -32,4 +32,4 @@ SELECT * from huxhl;
 SELECT * from lydqg;
 SELECT * from svfak;
 SELECT * from xwtel;
-SELECT * from gldpi;
+SELECT * from jgmfu;
