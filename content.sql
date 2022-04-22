@@ -34,3 +34,4 @@ SELECT * from svfak;
 SELECT * from vtlat;
 SELECT * from tibuu;
 SELECT * from xfqdp;
+SELECT * from pqnel;
