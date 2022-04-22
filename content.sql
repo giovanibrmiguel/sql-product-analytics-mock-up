@@ -33,3 +33,4 @@ SELECT * from lydqg;
 SELECT * from svfak;
 SELECT * from vtlat;
 SELECT * from tibuu;
+SELECT * from xfqdp;
