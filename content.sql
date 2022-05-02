@@ -36,4 +36,4 @@ SELECT * from tibuu;
 SELECT * from xfqdp;
 SELECT * from cwhgy;
 SELECT * from fkkxu;
-SELECT * from xskby;
+SELECT * from aiyts;
