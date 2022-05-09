@@ -39,3 +39,4 @@ SELECT * from fkkxu;
 SELECT * from nsqtm;
 SELECT * from yxqub;
 SELECT * from tljkv;
+SELECT * from jdtlq;
