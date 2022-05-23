@@ -40,4 +40,4 @@ SELECT * from nsqtm;
 SELECT * from yxqub;
 SELECT * from tljkv;
 SELECT * from nexak;
-SELECT * from xjdyf;
+SELECT * from ftdje;
