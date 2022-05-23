@@ -42,3 +42,4 @@ SELECT * from tljkv;
 SELECT * from nexak;
 SELECT * from gvapr;
 SELECT * from netbo;
+SELECT * from mdciq;
