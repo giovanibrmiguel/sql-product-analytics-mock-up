@@ -43,3 +43,4 @@ SELECT * from nexak;
 SELECT * from gvapr;
 SELECT * from netbo;
 SELECT * from gvymq;
+SELECT * from bjfeo;
