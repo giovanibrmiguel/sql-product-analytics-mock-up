@@ -44,4 +44,4 @@ SELECT * from gvapr;
 SELECT * from netbo;
 SELECT * from gvymq;
 SELECT * from hwvpc;
-SELECT * from fjkug;
+SELECT * from khlit;
