@@ -45,3 +45,4 @@ SELECT * from netbo;
 SELECT * from gvymq;
 SELECT * from hwvpc;
 SELECT * from vspkw;
+SELECT * from jktyx;
