@@ -48,4 +48,4 @@ SELECT * from vspkw;
 SELECT * from gsjhf;
 SELECT * from tdmqv;
 SELECT * from pclci;
-SELECT * from ckyqi;
+SELECT * from ckwjt;
