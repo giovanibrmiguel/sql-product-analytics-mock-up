@@ -49,3 +49,4 @@ SELECT * from gsjhf;
 SELECT * from tdmqv;
 SELECT * from pclci;
 SELECT * from jhfvq;
+SELECT * from qinti;
