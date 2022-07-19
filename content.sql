@@ -50,4 +50,4 @@ SELECT * from tdmqv;
 SELECT * from pclci;
 SELECT * from jhfvq;
 SELECT * from qinti;
-SELECT * from qiock;
+SELECT * from wkcid;
