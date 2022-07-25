@@ -53,3 +53,4 @@ SELECT * from qinti;
 SELECT * from hetuv;
 SELECT * from kiemw;
 SELECT * from eerlv;
+SELECT * from vleah;
