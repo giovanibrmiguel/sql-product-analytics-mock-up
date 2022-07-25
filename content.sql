@@ -55,3 +55,4 @@ SELECT * from kiemw;
 SELECT * from eerlv;
 SELECT * from fxoos;
 SELECT * from romyk;
+SELECT * from aecop;
